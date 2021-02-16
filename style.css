@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
-@import url('https://db.onlinewebfonts.com/c/74cb62d9f0ca957772a683219323facb?family=Osaka-Sans+Serif');
+@font-face {
+	src: url("assets/fonts/osakasans.ttf");
 body{
 
     background-color: black;
